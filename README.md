@@ -1,2 +1,2 @@
 # Css_Carousel
-## Css Carousel In action
+## Css Carousel using vanilla JS and Css
